@@ -97,3 +97,7 @@ Ensure that you follow the list of [theme store requirements](https://shopify.de
 ## License
 
 Copyright (c) 2021-present Shopify Inc. See [LICENSE](/LICENSE.md) for further details.
+
+
+https://dribbble.com/shots/14397557-Durotan-2-Shop-clothings-online
+https://dribbble.com/shots/16151477-shopify-website-landing-page-design
